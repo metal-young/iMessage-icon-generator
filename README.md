@@ -42,20 +42,21 @@ Parameters
 
 After running the script, it will generate all required iMessage icon sizes inside the resource folder.
 
-Platform	Scale	Size (px)	Filename
-iPhone	@2x	29x29	iphone_29x29_2x.png
-iPhone	@3x	29x29	iphone_29x29_3x.png
-iPhone	@2x	60x45	iphone_60x45_2x.png
-iPhone	@3x	60x45	iphone_60x45_3x.png
-iPad	@2x	29x29	ipad_29x29_2x.png
-iPad	@2x	67x50	ipad_67x50_2x.png
-iPad	@2x	74x55	ipad_74x55_2x.png
-iOS Marketing	@1x	1024x1024	ios-marketing_1024x1024_1x.png
-Universal	@2x	27x20	universal_27x20_2x.png
-Universal	@3x	27x20	universal_27x20_3x.png
-Universal	@2x	32x24	universal_32x24_2x.png
-Universal	@3x	32x24	universal_32x24_3x.png
-iOS Marketing	@1x	1024x768	ios-marketing_1024x768_1x.png
+| Platform         | Scale | Size (px)  | Filename                          |
+|-----------------|-------|------------|-----------------------------------|
+| iPhone          | @2x   | 29x29      | iphone_29x29_2x.png              |
+| iPhone          | @3x   | 29x29      | iphone_29x29_3x.png              |
+| iPhone          | @2x   | 60x45      | iphone_60x45_2x.png              |
+| iPhone          | @3x   | 60x45      | iphone_60x45_3x.png              |
+| iPad            | @2x   | 29x29      | ipad_29x29_2x.png                |
+| iPad            | @2x   | 67x50      | ipad_67x50_2x.png                |
+| iPad            | @2x   | 74x55      | ipad_74x55_2x.png                |
+| iOS Marketing   | @1x   | 1024x1024  | ios-marketing_1024x1024_1x.png   |
+| Universal       | @2x   | 27x20      | universal_27x20_2x.png           |
+| Universal       | @3x   | 27x20      | universal_27x20_3x.png           |
+| Universal       | @2x   | 32x24      | universal_32x24_2x.png           |
+| Universal       | @3x   | 32x24      | universal_32x24_3x.png           |
+| iOS Marketing   | @1x   | 1024x768   | ios-marketing_1024x768_1x.png    |
 
 ### How to Use in Xcode
 
@@ -73,10 +74,10 @@ Example:
 
 
 Why Use iMessage Icon Generator?
-	•	🚀 One command to generate all required iMessage icons.
-	•	📏 Perfectly formatted sizes for iOS, iPad, and iMessage Sticker Packs.
-	•	🎨 Maintains aspect ratio with optional background color.
-	•	💡 No more Photoshop resizing hassle!
+- 🚀 One command to generate all required iMessage icons.
+- 📏 Perfectly formatted sizes for iOS, iPad, and iMessage Sticker Packs.
+- 🎨 Maintains aspect ratio with optional background color.
+- 💡 No more Photoshop resizing hassle!
 
 ### License
 
